@@ -1,7 +1,7 @@
 # GameDesignNotes
 
 ## References
-A theory of fun for game design summary: https://www.allencheng.com/theory-of-fun-for-game-design-raph-koster-summary-pdf/#Main_Points
+* A theory of fun for game design summary: https://www.allencheng.com/theory-of-fun-for-game-design-raph-koster-summary-pdf/#Main_Points
 
 
 ## Theories of fun for game design
