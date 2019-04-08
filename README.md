@@ -1,8 +1,10 @@
 # GameDesignNotes
 
+**Texts in bold are my favorite concepts.**
+
 ## References
 * A theory of fun for game design summary: https://www.allencheng.com/theory-of-fun-for-game-design-raph-koster-summary-pdf/#Main_Points
-
+* Ultimate level desgin guide: https://www.worldofleveldesign.com/
 
 ## Theories of fun for game design
 * Games are puzzles to teach patterns, in a safe environment with low risk
@@ -61,6 +63,22 @@
 * Radom but fair
 * Additional elements
 * Good rewards
+
+## Level design tips
+* Illusion of freedom: Even if your environment is linear, give the player options of how they want to approach various sections of your level
+* **Set the pace and anticipation: Make it easy for players to get through first parts of the map then introducing more challenges, calm before the storm**
+* Make it imperfect: because nothing is perfect
+* Cliches: you can avoid cliches, but maybe creating and improving upon cliches is better
+* **Foreshadowing: showing, indicating an upcoming event or location. For example, put up obstacles so the player can only see new section of the map but cannot go through** 
+* **Previous location: the opposite of foreshadowing**
+* Believable world boundaries: Block-off the non-playable areas using obstacles without calling attention to them to make the world seem bigger
+* Visual tension atmosphere: Add tension to your level by using fog, haze, smoke, fire, rain, etc
+* **Scripted events: Show the player the enviroment is alive and changing. For example, a bridge explodes right before the player's eyes and force the player to go other paths rather than providing them with an already-exploded bridge.**
+* Interactive environment: Make enviroment interactable
+* **Guide with light: guide players subconsciously to proper locations of your level by using lights, using higher ground or using props. In short, make the locations stand out rather than using UI arrows.**
+* **Create relationships: For example, if giving players something, then take them away. The pain of loss is greater than motivation to gain.**
+* **Re-introduction and before/after: Re-introducing a previous location to create a connection with the player (locations should have different elements, for example, they are destroyed now)**
+* Water and waterfall: because they are interesting.
 
 ## Level design ideas
 ---- Add later ----
