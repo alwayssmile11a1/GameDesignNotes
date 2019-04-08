@@ -52,7 +52,7 @@
 * New idea
 * New system
 
-## Other ways generate game ideas
+## Other ways to generate game ideas
 * Consider extreme constraints – “make a one button game”
 * Try not to focus too much on other games for inspiration
 
@@ -61,4 +61,7 @@
 * Radom but fair
 * Additional elements
 * Good rewards
+
+## Level design ideas
+---- Add later ----
 
