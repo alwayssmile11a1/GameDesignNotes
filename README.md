@@ -83,3 +83,7 @@
 ## Level design element ideas (Reference from Rayman, Celeste, etc)
 ---- Add later ----
 
+## Boss design element ideas 
+---- Add later ----
+
+
