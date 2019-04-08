@@ -60,7 +60,7 @@
 
 ## Opinions on designing a game
 * Satisfying
-* Radom but fair
+* Random but fair
 * Additional elements
 * Good rewards
 
@@ -80,6 +80,6 @@
 * **Re-introduction and before/after: Re-introducing a previous location to create a connection with the player (locations should have different elements, for example, they are destroyed now)**
 * Water and waterfall: because they are interesting.
 
-## Level design ideas
+## Level design element ideas (Reference from Rayman, Celeste, etc)
 ---- Add later ----
 
