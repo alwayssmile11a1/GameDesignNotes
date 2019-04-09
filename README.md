@@ -80,10 +80,10 @@
 * **Re-introduction and before/after: Re-introducing a previous location to create a connection with the player (locations should have different elements, for example, they are destroyed now)**
 * Water and waterfall: because they are interesting.
 
-## Level design element ideas (Reference from Rayman, Celeste, etc)
+## Level design ideas (Reference from Rayman, Celeste, etc)
 ---- Add later ----
 
-## Boss design element ideas 
+## Boss design ideas 
 ---- Add later ----
 
 
