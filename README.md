@@ -87,7 +87,7 @@
 ---- Add later ----
 
 
-# Some other interesting stuff
+# SomeOtherInterestingStuff
 
 # References
 * How to survive in gamedev for eleven years without a hit: https://www.youtube.com/watch?v=JmwbYl6f11c
