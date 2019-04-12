@@ -5,7 +5,6 @@
 ## References
 * A theory of fun for game design summary: https://www.allencheng.com/theory-of-fun-for-game-design-raph-koster-summary-pdf/#Main_Points
 * Ultimate level desgin guide: https://www.worldofleveldesign.com/
-* How to survive in gamedev for eleven years without a hit: https://www.youtube.com/watch?v=JmwbYl6f11c
 
 ## Theories of fun for game design
 * Games are puzzles to teach patterns, in a safe environment with low risk
@@ -89,6 +88,11 @@
 
 
 # Some other interesting stuff
+
+# References
+* How to survive in gamedev for eleven years without a hit: https://www.youtube.com/watch?v=JmwbYl6f11c
+* 30 things I hate about your game pitch: https://www.youtube.com/watch?v=4LTtr45y7P0
+
 ## A casual hit
 * Small scope
 * Resonated with audience
@@ -102,4 +106,36 @@
 * Unique but familiar idea
 * Working demo
 * Risks and contingencies
+
+## 30 things I hate about your game pitch
+* I don't care about your back story
+* I don't care about your inventory system either
+* I'm not going to design your game for you
+* Pillars are not hooks
+* You never explained what the player does
+* Don't use realism to excuse bad design
+* You don't need a framing device if it's not necessary
+* Is it really a game, or just a knockoff?
+* You never mentioned your glaringly obvious tech risk
+* Your proof of concept does not prove your concept
+* Having lots of shitty art doesn't make them less shitty
+* I can't tell what's placeholder and what's not
+* You polished too early
+* Your sample dialog sucks
+* You're pandering to the latest tech craze
+* You just pitched a phone game to a console publisher
+* You're making a Gone Home/Minecraft/PUBG ripoff
+* You want us to negotiate a risky IP deal for you
+* I know more about your monetization than your mechanics
+* You have no idea how much money/people/time you need to make this thing
+* You don't have a team
+* Your business plan is based on outliers
+* You seem like you'd be a huge pain to work with
+* You expect me to know who you are
+* You're annoyed that I'm asking questions
+* We're trying to watch the pitch on your phone
+* You brought a laptop, but no headphones
+* You're hungover/drunk/high
+* Don't trash other games/companies/developers
+* You need to take a shower
 
