@@ -5,6 +5,7 @@
 ## References
 * A theory of fun for game design summary: https://www.allencheng.com/theory-of-fun-for-game-design-raph-koster-summary-pdf/#Main_Points
 * Ultimate level desgin guide: https://www.worldofleveldesign.com/
+* How to survive in gamedev for eleven years without a hit: https://www.youtube.com/watch?v=JmwbYl6f11c
 
 ## Theories of fun for game design
 * Games are puzzles to teach patterns, in a safe environment with low risk
@@ -86,4 +87,19 @@
 ## Boss design ideas 
 ---- Add later ----
 
+
+# Some other interesting stuff
+## A casual hit
+* Small scope
+* Resonated with audience
+* Spent money on art
+* Launched at a good time
+
+## A good pitch 
+* Research the market
+* Researched sales data 
+* Sensible budget
+* Unique but familiar idea
+* Working demo
+* Risks and contingencies
 
