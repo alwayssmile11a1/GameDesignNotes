@@ -1,10 +1,14 @@
 # GameDesignNotes
 
+*This section is dedicated to game design and game ideas.*
+
 **Texts in bold are my favorite concepts.**
 
 ## References
 * A theory of fun for game design summary: https://www.allencheng.com/theory-of-fun-for-game-design-raph-koster-summary-pdf/#Main_Points
 * Ultimate level desgin guide: https://www.worldofleveldesign.com/
+* Game feel: why your death animation sucks: https://www.youtube.com/watch?v=pmSAG51BybY
+* Game feel for games: https://www.youtube.com/watch?v=UsGuN69g2NI&list=PLaV0tugKoWDkpw6h0PvQVlVzNgWy_6j0Y&index=4&t=1s
 
 ## Theories of fun for game design
 * Games are puzzles to teach patterns, in a safe environment with low risk
@@ -86,8 +90,13 @@
 ## Boss design ideas 
 ---- Add later ----
 
+## How to make your game more juicy
+---- Add later ----
+
 
 # SomeOtherInterestingStuff
+
+*This section is dedicated to other things like marketing, pitch, etc.*
 
 # References
 * How to survive in gamedev for eleven years without a hit: https://www.youtube.com/watch?v=JmwbYl6f11c
